@@ -1,0 +1,1 @@
+# inštalácia Photoshopu a nastavenie na kreslenie

@@ -1,0 +1,1 @@
+# animovanie pomocou Timeline vo Photoshope
