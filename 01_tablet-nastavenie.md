@@ -28,7 +28,7 @@ Pre správne fungovanie tabletu je potrebné zabezpečiť nielen fyzické pripoj
 
 1. Navštívte stránku: [www.wacom.com/start](https://www.wacom.com/start)  
 2. Vyberte model **Wacom Intuos**
-![Select model Wacom Intuos](images/01_1.png)
+![Select model Wacom Intuos](images/01_1.PNG)
 3. Stiahnite si príslušný softvér podľa svojho operačného systému.  
 ![Select correct OS](images/01_2.png)
 4. Spustite inštaláciu a postupujte podľa pokynov.  
@@ -46,7 +46,7 @@ Pre správne fungovanie tabletu je potrebné zabezpečiť nielen fyzické pripoj
 1. Otvorte **Wacom Center**  
 2. V ľavom menu kliknite na svoj pripojený tablet  
 3. Kliknite na tlačidlo **Pen settings**
-![Wacom Tablet Properties](images/01_3.png)
+![Wacom Tablet Properties](images/01_3.PNG)
 
 Po otvorení Wacom Tablet Properties sa ako prvá zobrazí záložka Tablet, kde nájdete základné nastavenia pre hardvérové tlačidlá a informácie o batérii tabletu.
 
