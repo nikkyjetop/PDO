@@ -31,6 +31,7 @@ V tejto kapitole si ukážeme, ako v Adobe Photoshope vytvoriť jednoduchý digi
 ![Create object](images/03_3.png) 
 
 2. V novom frame-e vytvorte **novú vrstvu (Layer 2)** a nakreslite loptičku posunutú **mierne vyššie** – aby pôsobilo, že sa pohybuje nahor.
+
 ![Create object](images/03_4.png) 
 
 3. **Skryte vrstvy** podľa toho, ktorý frame je aktívny:
