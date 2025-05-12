@@ -1,6 +1,6 @@
 # 🔌 Zapojenie a nastavenie grafického tabletu
 
-V tejto časti dokumentácie sa naučíme, ako správne zapojiť a nastaviť grafický tablet značky **Wacom**, konkrétne modely zo série **Wacom Intuos**.  
+V tejto časti dokumentácie sa naučíte, ako správne zapojiť a nastaviť grafický tablet značky **Wacom**, konkrétne modely zo série **Wacom Intuos**.  
 Celý návod je prispôsobený pre používateľov, ktorí s tabletom pracujú prvýkrát, a ukážky budeme demonštrovať na modeli **Wacom Intuos Bluetooth (veľkosť M)**.
 
 Pre správne fungovanie tabletu je potrebné zabezpečiť nielen fyzické pripojenie k počítaču, ale aj nainštalovať oficiálny softvér a nakonfigurovať základné nastavenia ako je tlak pera, ovládacie tlačidlá či rozloženie pracovnej plochy.
