@@ -35,7 +35,7 @@ V tejto kapitole si ukážeme, ako v Adobe Photoshope vytvoriť jednoduchý digi
 
 ![Create object](images/03_4.png) 
 
-3. **Skryte vrstvy** podľa toho, ktorý frame je aktívny. Stačí ak kliknete na oko ktoré sa nachádza v ľavej časti vrstvy.:
+3. **Skryte vrstvy** podľa toho, ktorý frame je aktívny. Stačí ak kliknete na oko ktoré sa nachádza v ľavej časti vrstvy:
    - V **prvom frame** zobrazte **Layer 1**, skryte Layer 2.
    - V **druhom frame** zobrazte **Layer 2**, skryte Layer 1.
 
