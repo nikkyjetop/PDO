@@ -36,8 +36,5 @@ Dokumentácia je rozdelená do samostatných tematických návodov, ktoré krok 
 2. [**Inštalácia a nastavenie Adobe Photoshop**](02_photoshop-instalacia.md)  
    Postup inštalácie Photoshopu cez Adobe Creative Cloud a úvodné nastavenie pre kreslenie pomocou tabletu.
 
-3. [**Kreslenie 2D ilustrácií vo Photoshope**](03_kreslenie-assetov.md)  
-   Vytvorenie kreslených postavičiek a objektov, práca s vrstvami, štetcami a príprava na animáciu.
-
-4. [**Animovanie pomocou Timeline vo Photoshope**](04_animovanie.md)  
-   Základy animácie vo Photoshope – práca s časovou osou a exportovanie animácií do použiteľného formátu.
+3. [**Kreslenie a animácia pomocou Timeline vo Photoshope**](03_kreslenie-animacii.md)  
+   Vytvorenie objektu, práca s vrstvami, štetcami. Základy animácie vo Photoshope – práca s časovou osou a exportovanie animácií do použiteľného formátu.
