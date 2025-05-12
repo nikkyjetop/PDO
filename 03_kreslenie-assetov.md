@@ -1,1 +1,0 @@
-# návod na kreslenie vo Photoshope
