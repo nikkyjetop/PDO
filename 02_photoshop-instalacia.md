@@ -20,7 +20,7 @@ Tento návod vás krok za krokom prevedie inštaláciou Adobe Photoshopu a jeho 
    - 30-dňovú **skúšobnú verziu zdarma**  
    - **Predplatné Adobe Photoshop**  
 
-![Select subsctiprtion](images/02_2.PNG)
+![Select subsctiprtion](images/02_2.png)
 
    > 💡 **Poznámka:** Photoshop je súčasťou predplatného **Adobe Creative Cloud** – môžete si zvoliť iba samotný Photoshop, alebo si aktivovať celý balík aplikácií (napr. Illustrator, Lightroom, atď.).
 
@@ -45,10 +45,10 @@ Tento návod vás krok za krokom prevedie inštaláciou Adobe Photoshopu a jeho 
 2. V záložke **Art & Illustration** vyberte formát nového dokumentu:
    - **1920×1080 px**, **300 ppi**
 
-![Open New Project](images/02_5.PNG)
+![Open New Project](images/02_5.png)
 
 3. V **ľavom dolnom rohu** vytvorte **novú vrstvu**, na ktorú budete kresliť.  
-![Create New Layer](images/02_6.PNG)   
+![Create New Layer](images/02_6.png)   
    💡 **Poznámka:** Práca s viacerými vrstvami umožňuje jednoduchšiu organizáciu a efektívnejšiu úpravu kresby.
 
 ### 🖌️ Aktivácia tlaku pera
@@ -58,7 +58,7 @@ Tento návod vás krok za krokom prevedie inštaláciou Adobe Photoshopu a jeho 
 3. Uistite sa, že je aktívna záložka **Shape Dynamics**.
 4. V sekcii **Control** vyberte možnosť **Pen Pressure**.
 
-![Pen Pressure Control](images/02_7.PNG) 
+![Pen Pressure Control](images/02_7.png) 
 
 💡 **Poznámka:** Týmto sa aktivuje **dynamická veľkosť štetca podľa tlaku pera na tablete**, čo je kľúčové pre prirodzene pôsobiacu digitálnu kresbu.
 
@@ -70,7 +70,7 @@ Každý štetec si môžete prispôsobiť – napríklad upraviť jeho **veľkos
 ➡️ Na ukážku animovania vám postačí jednoduchý štetec:
 - V priečinku **General Brushes** vyberte **Hard Round**
 
-![Select Brush](images/02_8.PNG) 
+![Select Brush](images/02_8.png) 
 
 Vďaka týmto jednoduchým nastaveniam máte všetko pripravené na **vytváranie digitálnych kresieb** aj na **základnú animáciu obrázka**.  
 Photoshop ponúka množstvo pokročilých možností, ale práve tieto základné kroky vám umožnia okamžite začať tvoriť.
